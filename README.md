@@ -4,5 +4,4 @@
 - 🐍 I’m currently learning python at freecodecamp 
 - 📫 How to reach me: liceo.sur.andino2015@gmail.com
 - ⚡ Fun fact: I enjoy disarming things to understand how they works inside
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
