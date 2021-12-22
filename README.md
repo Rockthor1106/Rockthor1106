@@ -4,9 +4,14 @@
 - 🐍 I’m currently learning python at freecodecamp.com
 - 📫 How to reach me: liceo.sur.andino2015@gmail.com
 - ⚡ Fun fact: I enjoy disarming things to understand how they works inside
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rockthor1106&show_icons=true&theme=tokyonight"> 
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockthor1106&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats">
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rockthor1106&show_icons=true&theme=tokyonight) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rockthor1106&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/Rockthor1106/Rockthor1106/blob/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/Rockthor1106/Rockthor1106/blob/output/github-contribution-grid-snake.svg)
+</div>
