@@ -13,5 +13,7 @@
 </div>
 
 <div> 
+  
   ![Snake animation](https://github.com/Rockthor1106/Rockthor1106/blob/output/github-contribution-grid-snake.svg)
+
 </div>
