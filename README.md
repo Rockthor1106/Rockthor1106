@@ -1,7 +1,6 @@
 ### Hi there, I'm Jhan/Rockthor👋
 - 🧑 I'm 22 years old
 - 🎓 I’m currently studying a software systems engineering degree at ICESI university 
-- 🐍 I’m currently learning python at freecodecamp.com
 - 📫 How to reach me: jccarvajalbastidas@gmail.com
 - ⚡ Fun fact: I enjoy disarming things to understand how they works inside
 <br>
