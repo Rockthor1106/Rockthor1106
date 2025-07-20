@@ -1,18 +1,38 @@
-### Hi there, I'm Jhan/Rockthor👋
-- 🧑 I'm 23 years old
-- 🎓 I’m a software engineer
-- 📫 How to reach me: jccarvajalbastidas@gmail.com
-- ⚡ Fun fact: I enjoy disarming things to understand how they works inside
+# Hola, soy Jhan Carlos Carvajal 👋
+
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rockthor1106&show_icons=true&theme=tokyonight"> 
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockthor1106&layout=compact&theme=tokyonight">
-</div>
 
-<div> 
-  
-  ![Snake animation](https://github.com/Rockthor1106/Rockthor1106/blob/output/github-contribution-grid-snake.svg)
+### Acerca de mí
 
-</div>
+Soy un profesional de Ingeniería de Sistemas, graduado de la Universidad Icesi. Cuento con más de un año de experiencia en el sector **legaltech**, donde he trabajado en las áreas de desarrollo backend con Python y Django Rest. Por otro lado, he trabajado con Amazon Web Services, administrando infraestructura en nube e implementando microservicios para desplegar en AWS Lambdas. 
+
+<br>
+
+### 🚀 Stack Tecnológico
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+### 🌱 En lo que estoy trabajando
+
+Actualmente estoy enfocado en fortalecer mis habilidades en ingeniería mientras construyo mi portafolio de proyectos, de los cuales el primero es:
+
+-**emprende-candelaria:** un sistema que servirá como vitrina para microempresas y emprendedores del municipio de Candelaria, Valle del Cauca.
+
+<br>
+
+### 📫 Cómo contactarme
+
+<a href="https://linkedin.com/in/jhan-carlos-carvajal-bastidas/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jccarvajalbastidas@gmail.com">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
