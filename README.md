@@ -4,7 +4,7 @@
 
 ### Acerca de mí
 
-Soy un profesional de Ingeniería de Sistemas, graduado de la Universidad Icesi. Cuento con más de un año de experiencia en el sector **legaltech**, donde he trabajado en las áreas de desarrollo backend con Python y Django Rest. Por otro lado, he trabajado con Amazon Web Services, administrando infraestructura en nube e implementando microservicios para desplegar en AWS Lambdas. 
+Soy un profesional de Ingeniería de Sistemas, graduado de la Universidad Icesi. Me encanta desarmar cosas para comprender cómo funcionan por dentro y disfruto mucho mi trabajo porque me permite llevar a cabo esto todos los días. Me considero alguien resiliente y altamente adaptable.  
 
 <br>
 
