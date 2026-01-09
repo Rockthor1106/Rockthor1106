@@ -22,9 +22,7 @@ Soy un profesional de Ingeniería de Sistemas, graduado de la Universidad Icesi.
 
 ### 🌱 En lo que estoy trabajando
 
-Actualmente estoy enfocado en fortalecer mis habilidades en ingeniería mientras construyo mi portafolio de proyectos, de los cuales el primero es:
-
--**emprende-candelaria:** un sistema que servirá como vitrina para microempresas y emprendedores del municipio de Candelaria, Valle del Cauca.
+Actualmente estoy enfocado en fortalecer mis habilidades en ingeniería mientras construyo mi portafolio de proyectos.
 
 <br>
 
